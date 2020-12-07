@@ -1,0 +1,7 @@
+- pindahkan folder source code ke htdocs
+- nyalakan xampp , aktifkan Apache dan mysql
+- buka phpmyadmin
+- buat database baru dengan nama pa2
+- import database yang sudah terlampir pada source code
+- run aplikasi menggunakan localhost sesuai dengan penamaan source code direktori masing-masing
+- aplikasi berjalan

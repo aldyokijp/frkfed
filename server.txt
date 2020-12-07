@@ -1,0 +1,10 @@
+Mysql database
+database : id14127028_pa
+username : id14127028_del
+password : 5SJPNnJi^M9iFfK=
+
+
+FTP
+username : 	epiz_26046583
+password : 8vBV3Ki3nYQdf
+host : ftpupload.net    
